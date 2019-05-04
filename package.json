@@ -1,8 +1,10 @@
 {
+  "homepage": "https://unemployed-9cb6f.firebaseapp.com/",
   "name": "unemployed",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^5.11.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
